@@ -11,7 +11,7 @@ Based on NWPlayer123 for the original SARCPack.py (SARCPack v0.2.1)
 
 How to use it :
 
-Entract the ENTIRE archive                                                                                                                          
+Extract the ENTIRE archive                                                                                                                          
 Copy the folder you want to compress into the "Input" folder                                                                                                  
 Run ASP.exe                                                                                                                                                   
 Enter the folder name you just copied in the "input" folder                                                                                                   
