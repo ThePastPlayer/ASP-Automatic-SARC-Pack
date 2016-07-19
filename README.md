@@ -1,4 +1,4 @@
-# ASP-Automatic SARC Pack ***By ThePastPlayer *** Version .1.0
+# ASP-Automatic SARC Pack ***By ThePastPlayer *** Version .1.1
 
 ASP - Automatic SARC Pack, compress .sarc files easily by doing the cmd part of SARCPack instead of you doing it
 it's not revolutionary but it's useful still :p
